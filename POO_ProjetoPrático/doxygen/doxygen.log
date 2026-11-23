@@ -1,0 +1,9 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:170: warning: Unsupported xml/html tag <dir> found
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:180: warning: Unsupported xml/html tag <file> found
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:114: warning: Unsupported xml/html tag <Diretoria> found
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:114: warning: Unsupported xml/html tag <Ficheiro> found
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:114: warning: found documented return type for SistemaFicheiros::Escrever_XML that does not return anything
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:172: warning: found documented return type for SistemaFicheiros::PesquisarAllDirectorias that does not return anything
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:182: warning: found documented return type for SistemaFicheiros::PesquisarAllFicheiros that does not return anything
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:192: warning: found documented return type for SistemaFicheiros::RenomearFicheiros that does not return anything
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/POO/Projeto_Cinfaes/POO_ProjetoPrático/include/SistemaFicheiros.h:163: warning: found documented return type for SistemaFicheiros::Tree that does not return anything

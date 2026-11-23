@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1763763079 source:c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"Diretoria.h"
+	"Ficheiros.h"
+	"SistemaFicheiros.h"
+
+1763762447 source:c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\src\base.cpp
+	"Base.h"
+
+1763762446 c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\include\base.h
+	<vector>
+	<string>
+
+1763762447 source:c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+	"Base.h"
+	"Diretoria.h"
+
+1763762446 c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\include\sistemaficheiros.h
+	<string>
+	<filesystem>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	<vector>
+	"Base.h"
+	"Diretoria.h"
+	"Ficheiros.h"
+
+1763762447 source:c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\src\ficheiros.cpp
+	"Ficheiros.h"
+
+1763762446 c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\include\ficheiros.h
+	"Base.h"
+
+1763762447 source:c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\src\diretoria.cpp
+	"Diretoria.h"
+
+1763762446 c:\users\gabri\desktop\2ºano\1º semestre\poo\poo_projetoprático\include\diretoria.h
+	"Base.h"
+
+1763762446 source:c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"Diretoria.h"
+	"Ficheiros.h"
+	"SistemaFicheiros.h"
+
+1763762446 c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\include\diretoria.h
+	"Base.h"
+
+1763762446 c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\include\base.h
+	<vector>
+	<string>
+
+1763762446 c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\include\ficheiros.h
+	"Base.h"
+
+1763762446 c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\include\sistemaficheiros.h
+	<string>
+	<filesystem>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	<vector>
+	"Base.h"
+	"Diretoria.h"
+	"Ficheiros.h"
+
+1763762447 source:c:\users\gabri\desktop\poo_projetoprático\poo_projetoprático\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+	"Base.h"
+	"Diretoria.h"
+
+1765487212 source:c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"Diretoria.h"
+	"Ficheiros.h"
+	"SistemaFicheiros.h"
+
+1764106331 c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\include\diretoria.h
+	"Base.h"
+
+1764105990 c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\include\base.h
+	<vector>
+	<string>
+
+1764106263 c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\include\ficheiros.h
+	"Base.h"
+
+1765043337 c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\include\sistemaficheiros.h
+	<string>
+	<filesystem>
+	<iostream>
+	<fstream>
+	<list>
+	<vector>
+	"Base.h"
+	"Diretoria.h"
+	"Ficheiros.h"
+
+1764105990 source:c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\src\base.cpp
+	"Base.h"
+
+1765487212 source:c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\src\diretoria.cpp
+	"Diretoria.h"
+
+1764106263 source:c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\src\ficheiros.cpp
+	"Ficheiros.h"
+
+1765487816 source:c:\users\gabri\desktop\ano 2\semestre 1\poo\poo_projetoprático\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+	"Base.h"
+	"Diretoria.h"
+
+1765487212 source:c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"Diretoria.h"
+	"Ficheiros.h"
+	"SistemaFicheiros.h"
+
+1765500415 c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\include\diretoria.h
+	"Base.h"
+
+1765891537 c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\include\base.h
+	<vector>
+	<string>
+
+1765500419 c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\include\ficheiros.h
+	"Base.h"
+
+1765500412 c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\include\sistemaficheiros.h
+	<string>
+	<filesystem>
+	<iostream>
+	<fstream>
+	<list>
+	<vector>
+	"Base.h"
+	"Diretoria.h"
+	"Ficheiros.h"
+
+1764105990 source:c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\src\base.cpp
+	"Base.h"
+
+1765487212 source:c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\src\diretoria.cpp
+	"Diretoria.h"
+
+1764106263 source:c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\src\ficheiros.cpp
+	"Ficheiros.h"
+
+1765891535 source:c:\users\diogo\onedrive - estgv\ambiente de trabalho\2 ano\2 ano, 1 semestre\poo\projeto_cinfaes\poo_projetoprático\src\sistemaficheiros.cpp
+	"SistemaFicheiros.h"
+	"Base.h"
+	"Diretoria.h"
+

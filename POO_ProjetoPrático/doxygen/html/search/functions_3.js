@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['ficheiroduplicados_0',['FicheiroDuplicados',['../class_sistema_ficheiros.html#a5ca8ad974551c2f7d60309bf386380c9',1,'SistemaFicheiros']]],
+  ['ficheiromaior_1',['FicheiroMaior',['../class_sistema_ficheiros.html#a635cf701b0aa191ef81170805099f20f',1,'SistemaFicheiros']]]
+];
